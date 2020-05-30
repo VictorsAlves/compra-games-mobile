@@ -1,0 +1,46 @@
+name: compra_games
+description: aplicativo de compra de jogos na plataforma compra games
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^3.0.9
+  cupertino_icons: ^0.1.2
+  z_components: 0.9.10+6
+  shared_preferences: ^0.5.6+2
+  permission_handler: ^4.0.0
+  notification_permissions: ^0.4.3
+  pull_to_refresh: ^1.5.7
+  shimmer: ^1.0.1
+  image_picker: ^0.6.1+8
+  flutter_image_compress: ^0.6.3
+  firebase_messaging: ^6.0.3
+  firebase_core:
+
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+test: any
+mockito: ^4.1.1
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+
+
+
+
+
+
