@@ -1,5 +1,4 @@
-import 'package:compra_games/view/view-model/login-viewmodel.dart';
-
+import 'package:compra_games/presenter/view-model/login-viewmodel.dart';
 abstract class IAccountService {
   Future<LoginViewModel> login(LoginViewModel login);
 

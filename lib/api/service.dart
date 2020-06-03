@@ -1,12 +1,9 @@
 import 'dart:collection';
 import 'dart:convert';
 import 'dart:io';
-
-import 'package:compra_games/settings/api-settings.dart';
-import 'package:injector/injector.dart';
+import 'package:compra_games/api/settings/api-settings.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
-import 'package:z_components/components/z-injector/z-injector.dart';
 
 abstract class Service {
   static const String HTTP_GET = "HTTP_GET";

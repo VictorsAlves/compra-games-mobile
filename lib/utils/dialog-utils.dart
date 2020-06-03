@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:compra_games/presenter/style/main-style.dart';
+import 'package:compra_games/view/style/main-style.dart';
 import 'package:flutter/cupertino.dart';
 import 'dart:io';
 import 'package:flutter/material.dart';
