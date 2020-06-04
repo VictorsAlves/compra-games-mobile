@@ -82,42 +82,101 @@ class _DashboardState extends State<DashboardPage> {
     return new Expanded(
         child: ListWheelScrollView(
             onSelectedItemChanged: (index) => {
-              setState(() {
-                _selectedItemIndex = index;
-              })
-            },
-           
+                  setState(() {
+                    _selectedItemIndex = index;
+                  })
+                },
             physics: FixedExtentScrollPhysics(),
             itemExtent: 300.0,
             children: _produtosList
-                .map((movie) => Column(
-                      children: <Widget>[CardProduct(), SizedBox(height: 30.0)],
+                .map((produto) => Column(
+                      children: <Widget>[CardProduct(produto), SizedBox(height: 30.0)],
                     ))
                 .toList()));
   }
 
-  Widget CardProduct() {
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: <Widget>[
-        Icon(
-          Icons.disc_full,
-          size: 90,
-        ),
-        Container(
-          color: Colors.black26,
-          height: 100,
-          width: 250,
-          child: Column(
-            children: <Widget>[
-              Text("NOME PRODUTO"),
-              Text("BREVE DESCRIÇÃO CLIQUE MAIS PRA SABER"),
-              Text("VALOR"),
-              Icon(Icons.add)
-            ],
-          ),
-        )
-      ],
+  Widget CardProduct(ProdutoViewModel p) {
+    String titulo = p.title;
+    var preco = p.price;
+    var descricao  =p.description;
+    var plataforma = p.plataform;
+
+    return new Container(
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: <Widget>[
+          Container(
+            decoration: BoxDecoration(
+              color: Colors.orange,
+              borderRadius: BorderRadius.only(
+                topLeft: Radius.circular(10),
+                topRight: Radius.circular(10),
+                bottomLeft: Radius.circular(10),
+                bottomRight: Radius.circular(10),
+              ),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.grey.withOpacity(0.5),
+                  spreadRadius: 5,
+                  blurRadius: 7,
+                  offset: Offset(0, 3), // changes position of shadow
+                ),
+              ],
+            ),
+            height: 270,
+            width: 250,
+            child: Column(
+              children: <Widget>[
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Container(
+                      child: Text(titulo),
+                      padding: EdgeInsets.all(10),
+                    )
+                  ],
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Container(
+                      width: 180,
+                      child: Text("UMA BREVE DESCRIÇÃO DO PRODUTO LOREM IPSUN"),
+                      padding: EdgeInsets.all(10),
+                    )
+                  ],
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Container(
+                      child: Icon(
+                        Icons.disc_full,
+                        size: 90,
+                      ),
+                      padding: EdgeInsets.all(10),
+                    )
+                  ],
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Text("Preco "),
+                    Text("R\$00,00"),
+                    InkWell(
+                      onTap: () {},
+                      child: Icon(
+                        Icons.add_shopping_cart,
+                        size: 30,
+                      ),
+                    )
+                  ],
+                ),
+              ],
+            ),
+          )
+        ],
+      ),
     );
   }
 
@@ -162,25 +221,6 @@ class _DashboardState extends State<DashboardPage> {
                       title: new Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: <Widget>[
-                          new Expanded(
-                              flex: 9,
-                              child: SizedBox(
-                                child: Shimmer.fromColors(
-                                  baseColor: Color(0xffe6e6e6),
-                                  highlightColor: Colors.white,
-                                  child: new Container(
-                                    decoration: BoxDecoration(
-                                      color: Color(0xffe6e6e6),
-                                      border: new Border.all(
-                                          color: Colors.white, width: 8),
-                                      borderRadius: BorderRadius.circular(6.0),
-                                    ),
-                                    // margin: EdgeInsets.only(left: 16, bottom: 16),
-                                    height: 20,
-                                    width: 120,
-                                  ),
-                                ),
-                              )),
                           new Row(
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: <Widget>[
@@ -246,7 +286,45 @@ class _DashboardState extends State<DashboardPage> {
     ));
   }
 
-  Widget animatedList() {}
+  Widget cardProduto() {
+    return new Card(
+      color: Colors.grey[100],
+      child: Container(
+        child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: <Widget>[
+              Center(
+                child: Image.network(
+                    'https://flutter.io/images/catalog-widget-placeholder.png',
+                    height: 120,
+                    width: 120),
+              ),
+              Text(
+                "Nome P",
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                style: TextStyle(fontSize: 20),
+              ),
+              Text(
+                "Descricao do Produto",
+                style: TextStyle(fontSize: 14),
+              ),
+              Text(
+                "Plataforma",
+                style: TextStyle(fontSize: 14),
+              ),
+              Text(
+                "R\$00,00",
+                style: TextStyle(fontSize: 14),
+              ),
+              ButtonBar(children: <Widget>[
+                FlatButton(
+                    child: Icon(Icons.add_shopping_cart), onPressed: () {}),
+              ]),
+            ]),
+      ),
+    );
+  }
 
   initView() async {}
 }

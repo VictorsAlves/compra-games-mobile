@@ -1,0 +1,396 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:flutter_image_compress] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:z_components] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\z_components\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:2:1-20:12
+MERGED from [:shared_preferences] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:notification_permissions] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\notification_permissions\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\696a02cac49262b4fcc97738ee25a715\exifinterface-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\144e742e7c0c126bcbd3841be14352ae\heifwriter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1339a629ccf818ff0cba36b7b9d24200\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\32d44252bc4b68c3715541337c5bcbff\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ef500622149b2ef47662a3b9f032ed0\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\51509ac8450323b3cc27bf080116c4a7\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\39cc31ba50e55042000641a7e9c053cc\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6da94c5ae05187bede3cd7e519627b5f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9e8855464e2b6a80781f7c90b7d072a2\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1ea592bf795fb7dc03bd162df736acff\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\303a8de3dba69c4ab9b01b5ec0fd38e3\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1bc85234c99a631d6c158c5e1ad3f042\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\26d286cc621907f2693375d1f5e72c41\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\aaad69b80652622bc31921db6164cb3c\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\8d8b729a3fa26866123316f39562f41f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\b05112fa34f8aad2198aebf499337d82\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:8:5-19:19
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:7:5-18:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\32d44252bc4b68c3715541337c5bcbff\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\32d44252bc4b68c3715541337c5bcbff\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ef500622149b2ef47662a3b9f032ed0\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ef500622149b2ef47662a3b9f032ed0\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\51509ac8450323b3cc27bf080116c4a7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\51509ac8450323b3cc27bf080116c4a7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\39cc31ba50e55042000641a7e9c053cc\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\39cc31ba50e55042000641a7e9c053cc\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\26d286cc621907f2693375d1f5e72c41\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\26d286cc621907f2693375d1f5e72c41\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:9:9-57
+activity#com.example.executor_os.MainActivity
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_image_compress] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:6:5-9:55
+MERGED from [:z_components] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\z_components\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:z_components] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\z_components\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:6:5-44
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_web\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\shared_preferences_macos\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:notification_permissions] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\notification_permissions\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:notification_permissions] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\notification_permissions\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\696a02cac49262b4fcc97738ee25a715\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\696a02cac49262b4fcc97738ee25a715\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\144e742e7c0c126bcbd3841be14352ae\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\144e742e7c0c126bcbd3841be14352ae\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1339a629ccf818ff0cba36b7b9d24200\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1339a629ccf818ff0cba36b7b9d24200\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\32d44252bc4b68c3715541337c5bcbff\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\32d44252bc4b68c3715541337c5bcbff\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ef500622149b2ef47662a3b9f032ed0\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\2ef500622149b2ef47662a3b9f032ed0\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\51509ac8450323b3cc27bf080116c4a7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\51509ac8450323b3cc27bf080116c4a7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\39cc31ba50e55042000641a7e9c053cc\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\39cc31ba50e55042000641a7e9c053cc\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6da94c5ae05187bede3cd7e519627b5f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6da94c5ae05187bede3cd7e519627b5f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9e8855464e2b6a80781f7c90b7d072a2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9e8855464e2b6a80781f7c90b7d072a2\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1ea592bf795fb7dc03bd162df736acff\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1ea592bf795fb7dc03bd162df736acff\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\303a8de3dba69c4ab9b01b5ec0fd38e3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\303a8de3dba69c4ab9b01b5ec0fd38e3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1bc85234c99a631d6c158c5e1ad3f042\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\1bc85234c99a631d6c158c5e1ad3f042\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\37ff3f935527542507bf8998c1ff5fdc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\26d286cc621907f2693375d1f5e72c41\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\26d286cc621907f2693375d1f5e72c41\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\aaad69b80652622bc31921db6164cb3c\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\aaad69b80652622bc31921db6164cb3c\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\8d8b729a3fa26866123316f39562f41f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\8d8b729a3fa26866123316f39562f41f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\b05112fa34f8aad2198aebf499337d82\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\b05112fa34f8aad2198aebf499337d82\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:9-17:19
+MERGED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\flutter_webview_plugin\intermediates\library_manifest\release\AndroidManifest.xml:10:13-62
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:10:25-75
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] C:\Users\Victor\Desktop\CompraGames\compra-games-mobile\build\firebase_messaging\intermediates\library_manifest\release\AndroidManifest.xml:15:17-127
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\f6a5e44897fc3032a6d1190ca562cfbe\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\fa13310745012eece2ce9c4131f1f524\firebase-iid-20.0.1\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\ea518db5f736abea4bf2cbc6e04006d8\firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\488aac71576c08429ded5dcc21b96834\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Victor\.gradle\caches\transforms-2\files-2.1\c2e42caa1372410044b4a1037e959c88\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

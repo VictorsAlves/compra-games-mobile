@@ -1,4 +1,4 @@
-#Wed Jun 03 03:50:11 BRT 2020
+#Thu Jun 04 00:34:49 BRT 2020
 base.2=C\:\\Users\\Victor\\Desktop\\CompraGames\\compra-games-mobile\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_0.dex
 base.1=C\:\\Users\\Victor\\Desktop\\CompraGames\\compra-games-mobile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 base.0=C\:\\Users\\Victor\\Desktop\\CompraGames\\compra-games-mobile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
