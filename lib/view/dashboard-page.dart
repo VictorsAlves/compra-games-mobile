@@ -90,7 +90,10 @@ class _DashboardState extends State<DashboardPage> {
             itemExtent: 300.0,
             children: _produtosList
                 .map((produto) => Column(
-                      children: <Widget>[CardProduct(produto), SizedBox(height: 30.0)],
+                      children: <Widget>[
+                        CardProduct(produto),
+                        SizedBox(height: 30.0)
+                      ],
                     ))
                 .toList()));
   }
@@ -98,7 +101,7 @@ class _DashboardState extends State<DashboardPage> {
   Widget CardProduct(ProdutoViewModel p) {
     String titulo = p.title;
     var preco = p.price;
-    var descricao  =p.description;
+    var descricao = p.description;
     var plataforma = p.plataform;
 
     return new Container(
@@ -141,7 +144,8 @@ class _DashboardState extends State<DashboardPage> {
                   children: <Widget>[
                     Container(
                       width: 180,
-                      child: Text("UMA BREVE DESCRIÇÃO DO PRODUTO LOREM IPSUN"),
+                      child: Text(
+                          "Pataforma:" + plataforma + " Descrição" + descricao),
                       padding: EdgeInsets.all(10),
                     )
                   ],
@@ -162,7 +166,7 @@ class _DashboardState extends State<DashboardPage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     Text("Preco "),
-                    Text("R\$00,00"),
+                    Text("R\$" + preco),
                     InkWell(
                       onTap: () {},
                       child: Icon(
